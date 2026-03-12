@@ -11,9 +11,9 @@ import javax.swing.JOptionPane;
 
 public class presona extends javax.swing.JFrame {
 
-    public static final String url = "jdbc:mysql://localhost:3306/escuela";
-    public static final String userName = "MORJAN";
-    public static final String passwd = "Moreno.880501";
+    public static final String url = "jdbc:mysql://localhost:3306/ingweb";
+    public static final String userName = "MORJANDEV";
+    public static final String passwd = "Morjan*1025544889";
     PreparedStatement ps;
     ResultSet rs;
 
